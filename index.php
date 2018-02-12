@@ -15,8 +15,8 @@
 				Navigation Bar
 			</h3>
 			<ul>
-				<li><a href="./index.html">Welcome Page</a></li>
-				<li><a href="./coursepage.html">Course Page</a></li>
+				<li><a href="./index.php">Welcome Page</a></li>
+				<li><a href="./coursepage.php">Course Page</a></li>
 			</ul>
 		</div>
 		<div id="content">
